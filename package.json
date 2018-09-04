@@ -1,0 +1,47 @@
+{
+  "name": "FifaScores",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "babel-preset-react-native-stage-0": "^1.0.1",
+    "jest-react-native": "^18.0.0",
+    "react-test-renderer": "16.4.2"
+  },
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "node node_modules/jest/bin/jest.js"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "dependencies": {
+    "apisauce": "^0.16.0",
+    "mobx": "4",
+    "mobx-react": "^5.0.0",
+    "mobx-state-tree": "^2.0.1",
+    "moment": "^2.22.2",
+    "prop-types": "^15.6.2",
+    "react": "16.2.0",
+    "react-mixin": "^4.0.0",
+    "react-native": "0.54.0",
+    "react-native-elements": "^0.19.1",
+    "react-native-fbsdk": "^0.7.0",
+    "react-native-firebase": "^4.3.8",
+    "react-native-google-signin": "^1.0.0-rc3",
+    "react-native-image-fallback": "github:moro56/react-native-image-fallback",
+    "react-native-progress": "^3.5.0",
+    "react-native-root-siblings": "^3.1.0",
+    "react-native-snackbar-dialog": "^1.4.1",
+    "react-native-svg": "^6.5.2",
+    "react-native-vector-icons": "^5.0.0",
+    "react-navigation": "^2.12.1",
+    "react-navigation-header-buttons": "^2.1.0",
+    "react-timer-mixin": "^0.13.4",
+    "realm": "^2.15.3",
+    "redux": "^4.0.0",
+    "socket.io-client": "^2.1.1",
+    "victory-native": "^30.3.0"
+  }
+}
