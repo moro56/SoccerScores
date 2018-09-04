@@ -1,6 +1,8 @@
 # SoccerScores
 
-App for storing videogame soccer scores. 
+React Native
+
+App for storing videogame soccer scores. (Experimental)
 
 <p float="left">
   <img src="/images/Screenshot_2018-09-04-11-05-32.png" width="200" />
